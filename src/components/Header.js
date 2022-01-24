@@ -7,7 +7,7 @@ import '../css/normalize.css'
 import '../css/components.css'
 
 function Header() {
-  const [theme, setTheme] = React.useState(() => document.body.getAttribute('data-theme') ?? 'dark')
+  const [theme, setTheme] = React.useState(() => document.body.getAttribute('data-theme') ?? 'light')
   React.useEffect(() => {
     document.body.setAttribute('data-theme', theme)
   }, [theme])
