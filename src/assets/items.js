@@ -6,6 +6,7 @@ import youtube from '../assets/youtube.jpeg'
 import github from '../assets/github.png'
 import telegram from '../assets/telegram.png'
 import linkedin from '../assets/linkedin.png'
+import photography from '../assets/photography.png'
 // import twitter from '../assets/twitter.png'
 
 const items = [
@@ -18,7 +19,7 @@ const items = [
 {
     "title": "Photography Portfolio",
     "subtitle": "Check out my Photography!",
-    "image": website,
+    "image": photography,
     "link": "https://benjaminphotography.michaelis.net/" //your personal website or portfolio  link
 },
 // {
