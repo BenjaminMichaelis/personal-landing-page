@@ -5,14 +5,16 @@ import youtube from '../assets/youtube.jpeg'
 // import dribbble from '../assets/dribbble.png'
 import github from '../assets/github.png'
 import telegram from '../assets/telegram.png'
+import linkedin from '../assets/linkedin.png'
 // import twitter from '../assets/twitter.png'
 
-const items = [{
-    "title": "Coding Website",
-    "subtitle": "Look at my work!",
-    "image": website,
-    "link": "https://bencodes.michaelis.net" //your personal website or portfolio  link
-},
+const items = [
+// {
+//     "title": "Coding Website",
+//     "subtitle": "Look at my work!",
+//     "image": website,
+//     "link": "https://bencodes.michaelis.net" //your personal website or portfolio  link
+// },
 {
     "title": "Photography Portfolio",
     "subtitle": "Check out my Photography!",
@@ -30,6 +32,12 @@ const items = [{
     "subtitle": "@benjaminmichaelis | 🏠 of my open-source projects",
     "image": github,
     "link": "https://github.com/benjaminmichaelis" //Github Profile link
+},
+{
+    "title": "Linkedin",
+    "subtitle": "@Benjamin-Michaelis | Connect with me",
+    "image": linkedin,
+    "link": "https://linkedin.com/in/benjamin-michaelis/" //Github Profile link
 },
 {
     "title": "Instagram",
