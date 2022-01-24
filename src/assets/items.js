@@ -17,8 +17,14 @@ const items = [{
     "title": "Photography Portfolio",
     "subtitle": "Check out my Photography!",
     "image": website,
-    "link": "https://photography.michaelis.net" //your personal website or portfolio  link
+    "link": "https://benjaminphotography.michaelis.net/" //your personal website or portfolio  link
 },
+// {
+//     "title": "Photography Portfolio",
+//     "subtitle": "Check out my Photography!",
+//     "image": website,
+//     "link": "https://photography.michaelis.net" //your personal website or portfolio  link
+// },
 {
     "title": "GitHub",
     "subtitle": "@benjaminmichaelis | 🏠 of my open-source projects",
