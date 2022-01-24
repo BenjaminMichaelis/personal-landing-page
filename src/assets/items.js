@@ -1,4 +1,4 @@
-import website from '../assets/website.png'
+// import website from '../assets/website.png'
 import instagram from '../assets/instagram.png'
 // import appstore from '../assets/playstore.png'
 import youtube from '../assets/youtube.jpeg'
@@ -7,13 +7,14 @@ import github from '../assets/github.png'
 import telegram from '../assets/telegram.png'
 import linkedin from '../assets/linkedin.png'
 import photography from '../assets/photography.png'
+// import personallogo from '../assets/personalsite.png'
 // import twitter from '../assets/twitter.png'
 
 const items = [
 // {
 //     "title": "Coding Website",
 //     "subtitle": "Look at my work!",
-//     "image": website,
+//     "image": personallogo,
 //     "link": "https://bencodes.michaelis.net" //your personal website or portfolio  link
 // },
 {
@@ -25,7 +26,7 @@ const items = [
 // {
 //     "title": "Photography Portfolio",
 //     "subtitle": "Check out my Photography!",
-//     "image": website,
+//     "image": photography,
 //     "link": "https://photography.michaelis.net" //your personal website or portfolio  link
 // },
 {
