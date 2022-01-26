@@ -65,7 +65,7 @@ const items = [
     "title": "YouTube",
     "subtitle": "@Benjamin Michaelis | Official channel of mine",
     "image": youtube,
-    "link": "https://www.youtube.com/channel/UChwRHg6HZvllYlnvXZfQQOA"//youtube channel link 
+    "link": "https://youtube.com/channel/UChwRHg6HZvllYlnvXZfQQOA"//youtube channel link 
 },
 // {
 //     "title": "Dribbble",
@@ -89,7 +89,7 @@ const items = [
     "title": "Random Meal Generator",
     "subtitle": "Get random meal ideas!",
     "image": villagemealgenerator,
-    "link": "https://www.villagemealgenerator.michaelis.net/"//youtube channel link 
+    "link": "https://villagemealgenerator.michaelis.net/"//youtube channel link 
 },
 ]
 
