@@ -9,6 +9,8 @@ import linkedin from '../assets/linkedin.png'
 import photography from '../assets/photography.png'
 // import personallogo from '../assets/personalsite.png'
 // import twitter from '../assets/twitter.png'
+import graphsketchpad from '../assets/graphsketchpad.png'
+import villagemealgenerator from '../assets/villagemealgenerator.png'
 
 const items = [
 // {
@@ -76,6 +78,19 @@ const items = [
     "subtitle": "@benjaminmichaelis | Chat with me instantly, Don't hesitate! ",
     "image": telegram,
     "link": "https://telegram.me/benjaminmichaelis" //Telegram Pofile 
-}]
+},
+{
+    "title": "Graph Sketchpad",
+    "subtitle": "Draw graphs with loops and edges easily",
+    "image": graphsketchpad,
+    "link": "https://graphsketchpad.michaelis.net/"//youtube channel link 
+},
+{
+    "title": "Random Meal Generator",
+    "subtitle": "Get random meal ideas!",
+    "image": villagemealgenerator,
+    "link": "https://www.villagemealgenerator.michaelis.net/"//youtube channel link 
+},
+]
 
 export default items
