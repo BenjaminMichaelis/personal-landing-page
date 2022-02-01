@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  run:
+  UpdateDate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -15,3 +15,13 @@ jobs:
       - uses: FantasticFiasco/action-update-license-year@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Merge pull request
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Replace '--merge' with '--rebase' to rebase the commits onto the base
+          # branch, or with '--squash' to squash the commits into one commit and merge
+          # it into the base branch.
+          # For more information regarding the merge command, please see
+          # https://cli.github.com/manual/gh_pr_merge.
+          gh pr merge --merge --delete-branch
