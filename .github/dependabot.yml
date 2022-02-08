@@ -8,5 +8,5 @@ updates:
       - "npm"
       - "dependencies"
     ignore:
-      dependency-name: "*"
-      update-types: ["version-update:semver-patch"]
+      - dependency-name: "*"
+        update-types: ["version-update:semver-patch"]
