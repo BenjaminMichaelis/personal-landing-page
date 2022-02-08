@@ -7,3 +7,6 @@ updates:
     labels:
       - "npm"
       - "dependencies"
+    ignore:
+      dependency-name: "*"
+      update-types: ["version-update:semver-patch"]
