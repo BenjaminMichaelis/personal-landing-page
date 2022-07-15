@@ -1,4 +1,4 @@
-// import website from '../assets/website.png'
+import website from '../assets/website.png'
 import instagram from '../assets/instagram.png'
 // import appstore from '../assets/playstore.png'
 import youtube from '../assets/youtube.jpeg'
@@ -17,20 +17,14 @@ const items = [
 //     "title": "Coding Website",
 //     "subtitle": "Look at my work!",
 //     "image": personallogo,
-//     "link": "https://bencodes.michaelis.net" //your personal website or portfolio  link
+//     "link": "https://bencodes.michaelis.net"
 // },
 {
-    "title": "Photography Portfolio",
-    "subtitle": "Check out my Photography!",
+    "title": "Photography Journal",
+    "subtitle": "Check out my Photography Journal!",
     "image": photography,
-    "link": "https://benjaminphotography.michaelis.net/" //your personal website or portfolio  link
+    "link": "https://photography.michaelis.net"
 },
-// {
-//     "title": "Photography Portfolio",
-//     "subtitle": "Check out my Photography!",
-//     "image": photography,
-//     "link": "https://photography.michaelis.net" //your personal website or portfolio  link
-// },
 {
     "title": "GitHub",
     "subtitle": "@benjaminmichaelis | 🏠 of my open-source projects",
@@ -48,6 +42,12 @@ const items = [
     "subtitle": "@benjamin.michaelis | Hub of my awesome 😎 pics",
     "image": instagram,
     "link": "https://instagram.com/benjamin.michaelis" //instagram profile link 
+},
+{
+    "title": "Photography Portfolio",
+    "subtitle": "Check out my Photography!",
+    "image": website,
+    "link": "https://benjaminphotography.michaelis.net/"
 },
 // {
 //     "title": "Twitter",
@@ -83,13 +83,13 @@ const items = [
     "title": "Graph Sketchpad",
     "subtitle": "Draw graphs with loops and edges easily",
     "image": graphsketchpad,
-    "link": "https://graphsketchpad.michaelis.net/"//youtube channel link 
+    "link": "https://graphsketchpad.michaelis.net/"// youtube channel link 
 },
 {
     "title": "Random Meal Generator",
     "subtitle": "Get random meal ideas!",
     "image": villagemealgenerator,
-    "link": "https://villagemealgenerator.michaelis.net/"//youtube channel link 
+    "link": "https://villagemealgenerator.michaelis.net/"// youtube channel link 
 },
 ]
 
