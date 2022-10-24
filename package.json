@@ -7,7 +7,7 @@
     "@sentry/tracing": "^6.17.4",
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.2",
-    "@testing-library/user-event": "^13.5.0",
+    "@testing-library/user-event": "^14.4.3",
     "framer-motion": "^6.2.3",
     "node": "^18.5.0",
     "react": "^17.0.2",
