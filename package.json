@@ -6,7 +6,7 @@
     "@sentry/react": "^7.16.0",
     "@sentry/tracing": "^7.16.0",
     "@testing-library/jest-dom": "^5.16.2",
-    "@testing-library/react": "^12.1.2",
+    "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^14.4.3",
     "framer-motion": "^7.6.1",
     "node": "^18.5.0",
