@@ -43,12 +43,12 @@ const items = [
     "image": instagram,
     "link": "https://instagram.com/benjamin.michaelis" //instagram profile link 
 },
-{
-    "title": "Photography Portfolio",
-    "subtitle": "Check out my Photography!",
-    "image": website,
-    "link": "https://benjaminphotography.michaelis.net/"
-},
+// {
+//     "title": "Photography Portfolio",
+//     "subtitle": "Check out my Photography!",
+//     "image": website,
+//     "link": "https://benjaminphotography.michaelis.net/"
+// },
 // {
 //     "title": "Twitter",
 //     "subtitle": "@benmichaelis | Don't forget to follow me 😉",
