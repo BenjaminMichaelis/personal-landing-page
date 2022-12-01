@@ -1,4 +1,4 @@
-import website from '../assets/website.png'
+// import website from '../assets/website.png'
 import instagram from '../assets/instagram.png'
 // import appstore from '../assets/playstore.png'
 import youtube from '../assets/youtube.jpeg'
