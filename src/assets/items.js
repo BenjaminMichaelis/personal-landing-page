@@ -1,4 +1,4 @@
-// import website from '../assets/website.png'
+import website from '../assets/website.png'
 import instagram from '../assets/instagram.png'
 // import appstore from '../assets/playstore.png'
 import youtube from '../assets/youtube.jpeg'
@@ -21,7 +21,7 @@ const items = [
 // },
 {
     "title": "Photography Journal",
-    "subtitle": "Check out my Photography Journal!",
+    "subtitle": "Check out my Photography!",
     "image": photography,
     "link": "https://photography.michaelis.net"
 },
@@ -43,12 +43,6 @@ const items = [
     "image": instagram,
     "link": "https://instagram.com/benjamin.michaelis" //instagram profile link 
 },
-// {
-//     "title": "Photography Portfolio",
-//     "subtitle": "Check out my Photography!",
-//     "image": website,
-//     "link": "https://benjaminphotography.michaelis.net/"
-// },
 // {
 //     "title": "Twitter",
 //     "subtitle": "@benmichaelis | Don't forget to follow me 😉",
@@ -80,9 +74,15 @@ const items = [
     "link": "https://telegram.me/benjaminmichaelis" //Telegram Pofile 
 },
 {
+    "title": "Sites Status Page",
+    "subtitle": "Check on the status of my websites.",
+    "image": telegram,
+    "link": "https://status.michaelis.net" //SiteMonitor (https://github.com/BenjaminMichaelis/SiteMonitor)
+},
+{
     "title": "Graph Sketchpad",
     "subtitle": "Draw graphs with loops and edges easily",
-    "image": graphsketchpad,
+    "image": website,
     "link": "https://graphsketchpad.michaelis.net/"// youtube channel link 
 },
 {
