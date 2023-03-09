@@ -76,13 +76,13 @@ const items = [
 {
     "title": "Sites Status Page",
     "subtitle": "Check on the status of my websites.",
-    "image": telegram,
+    "image": website,
     "link": "https://status.michaelis.net" //SiteMonitor (https://github.com/BenjaminMichaelis/SiteMonitor)
 },
 {
     "title": "Graph Sketchpad",
     "subtitle": "Draw graphs with loops and edges easily",
-    "image": website,
+    "image": graphsketchpad,
     "link": "https://graphsketchpad.michaelis.net/"// youtube channel link 
 },
 {
