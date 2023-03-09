@@ -68,7 +68,7 @@ const items = [
 //     "link": "https://dribbble.com" // Dribbble profile link 
 // },
 {
-    "title": "Sites Status Page",
+    "title": "Status Page",
     "subtitle": "Check on the status of my websites.",
     "image": website,
     "link": "https://status.michaelis.net" //SiteMonitor (https://github.com/BenjaminMichaelis/SiteMonitor)
