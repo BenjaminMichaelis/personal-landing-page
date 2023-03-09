@@ -68,16 +68,16 @@ const items = [
 //     "link": "https://dribbble.com" // Dribbble profile link 
 // },
 {
-    "title": "Telegram",
-    "subtitle": "@benjaminmichaelis | Chat with me instantly, Don't hesitate! ",
-    "image": telegram,
-    "link": "https://telegram.me/benjaminmichaelis" //Telegram Pofile 
-},
-{
     "title": "Sites Status Page",
     "subtitle": "Check on the status of my websites.",
     "image": website,
     "link": "https://status.michaelis.net" //SiteMonitor (https://github.com/BenjaminMichaelis/SiteMonitor)
+},
+{
+    "title": "Telegram",
+    "subtitle": "@benjaminmichaelis | Chat with me instantly, Don't hesitate! ",
+    "image": telegram,
+    "link": "https://telegram.me/benjaminmichaelis" //Telegram Pofile 
 },
 {
     "title": "Graph Sketchpad",
