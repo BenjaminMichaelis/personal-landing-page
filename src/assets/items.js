@@ -4,6 +4,7 @@ import instagram from '../assets/instagram.png'
 import youtube from '../assets/youtube.jpeg'
 // import dribbble from '../assets/dribbble.png'
 import github from '../assets/github.png'
+import intellitect from '../assets/intellitect.png'
 import telegram from '../assets/telegram.png'
 import linkedin from '../assets/linkedin.png'
 import photography from '../assets/photography.png'
@@ -70,7 +71,7 @@ const items = [
 {
     "title": "IntelliTect Blogs",
     "subtitle": "The blogs I have written for @IntelliTect.",
-    "image": website,
+    "image": intellitect,
     "link": "https://intellitect.com/blog/author/benjamin-michaelis" //SiteMonitor (https://github.com/BenjaminMichaelis/SiteMonitor)
 },
 {
