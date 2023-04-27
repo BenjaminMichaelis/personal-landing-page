@@ -68,6 +68,12 @@ const items = [
 //     "link": "https://dribbble.com" // Dribbble profile link 
 // },
 {
+    "title": "IntelliTect Blogs",
+    "subtitle": "The blogs I have written for @IntelliTect.",
+    "image": website,
+    "link": "https://intellitect.com/blog/author/benjamin-michaelis" //SiteMonitor (https://github.com/BenjaminMichaelis/SiteMonitor)
+},
+{
     "title": "Status Page",
     "subtitle": "Check on the status of my websites.",
     "image": website,
