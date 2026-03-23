@@ -10,7 +10,7 @@
     "@testing-library/user-event": "^14.6.0",
     "framer-motion": "^12.36.0",
     "node": "^25.8.0",
-    "nth-check": "^2.1.1",
+    "nth-check": "^3.0.1",
     "react": "^19.0.0",
     "react-dom": "^19.2.0",
     "react-scripts": "^5.0.1"
