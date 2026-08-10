@@ -5,7 +5,7 @@
   "dependencies": {
     "@sentry/react": "^10.66.0",
     "@sentry/tracing": "^7.120.3",
-    "@testing-library/jest-dom": "^6.9.1",
+    "@testing-library/jest-dom": "^7.0.0",
     "@testing-library/react": "^16.3.0",
     "@testing-library/user-event": "^14.6.0",
     "framer-motion": "^13.0.0",
